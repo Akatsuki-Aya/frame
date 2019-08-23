@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../fileuploadServer" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_02_02_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_02_03_exeception" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_02_04_interceptor" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_02_02_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/../fileuploadServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_02_04_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_02_03_exeception/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
